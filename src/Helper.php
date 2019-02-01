@@ -17,6 +17,6 @@ class Helper
 {
     public function index()
     {
-        return 'helper';
+        return 'helper v0.0.1';
     }
 }
