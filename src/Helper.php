@@ -6,12 +6,12 @@
  * Time: 下午9:12
  */
 
-namespace Xiaoxiaoxiaox\Xixixi;
+namespace Xiaoxiaoxiaox\Helper;
 
 /**
  * 助手函数类
  * Class Helper
- * @package Xiaoxiaoxiaox\Xixixi
+ * @package Xiaoxiaoxiaox\Helper
  */
 class Helper
 {
